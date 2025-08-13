@@ -1,0 +1,7 @@
+This application does not collect, store, or share any personal data.
+
+The "Usage Access" permission is only utilized to read screen time data (like how long an app is used) locally on your device. This data is not uploaded, stored remotely, or given to anyone else.
+
+No data is collected, transmitted, or processed outside of your own device.
+
+August 13, 2025

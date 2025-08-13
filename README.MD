@@ -14,4 +14,4 @@ App is only guaranteed to work on <b>AOSP-like</b> (e.g., Google Pixel, Nothing 
 Some manufacturers (e.g., Samsing, Oppo, Xiaomi) significantly modify Android, sometimes disabling standard features without clear reason, which may prevent the app from functioning as intended.
 
 ## Download:
-[<img src="assets/play_store.png">](https://play.google.com/store/apps/details?id=com.keekys.gaze);
+[<img src="assets/play_store.png">](https://play.google.com/store/apps/details?id=com.keekys.gaze)

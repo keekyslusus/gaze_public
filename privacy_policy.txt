@@ -1,7 +1,34 @@
-This application does not collect, store, or share any personal data.
+Privacy Policy
 
-The "Usage Access" permission is only utilized to read screen time data (like how long an app is used) locally on your device. This data is not uploaded, stored remotely, or given to anyone else.
+Effective date: October 20, 2025
 
-No data is collected, transmitted, or processed outside of your own device.
+Developer: Keekys
 
-August 13, 2025
+1. Introduction
+
+This Privacy Policy explains how the Gaze application (“the App”, “we”, “our”, or “us”) handles user data. We respect your privacy and are committed to protecting it.
+
+2. Data Collection and Use
+
+The App does not collect, store, or share any personal information.
+
+The only permission required is Usage Access, which is used solely to read your screen time data locally on your device — such as how long each app has been used.
+
+This information is not uploaded to any server, not shared with third parties, and not stored outside your device.
+
+3. Data Storage and Sharing
+
+All data remains on your device and is processed locally. No data is transmitted over the internet or stored remotely.
+
+4. Third-Party Services
+
+The App does not use any third-party analytics, advertising, or tracking services.
+
+5. Changes to This Policy
+
+If we make any changes to this Privacy Policy, the updated version will be available within the app and/or on the store listing.
+
+6. Contact
+
+If you have any questions or concerns about this Privacy Policy, you can contact us at:
+mixtery1337@gmail.com
